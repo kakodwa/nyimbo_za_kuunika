@@ -6,7 +6,8 @@ import '../providers/theme_provider.dart';
 class AppDrawer extends StatelessWidget {
   const AppDrawer({Key? key}) : super(key: key);
 
-  static const String developerPhone = "0993344416";
+  static const String airtelMoneyPhone = "0993344416";
+  static const String mpambaPhone = "0882935706";
   static const String developerEmail = "ikpixels.py@gmail.com";
 
   @override
@@ -257,17 +258,23 @@ class AppDrawer extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'Send Support via Airtel Money or Mpamba:',
+                      'Send Support via Mobile Money:',
                       style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: AppTheme.zecDarkBlue),
                     ),
-                    SizedBox(height: 6),
+                    SizedBox(height: 8),
                     SelectableText(
-                      'Number: $developerPhone',
-                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: AppTheme.zecBlue),
+                      'Airtel Money: $airtelMoneyPhone',
+                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: AppTheme.zecBlue),
                     ),
+                    SizedBox(height: 4),
+                    SelectableText(
+                      'TNM Mpamba: $mpambaPhone',
+                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: AppTheme.zecBlue),
+                    ),
+                    SizedBox(height: 6),
                     Text(
                       'Name: Isaac Kakodwa',
-                      style: TextStyle(fontSize: 13, color: Colors.black87),
+                      style: TextStyle(fontSize: 13, color: Colors.black87, fontWeight: FontWeight.w500),
                     ),
                   ],
                 ),
@@ -306,8 +313,8 @@ class AppDrawer extends StatelessWidget {
               SizedBox(height: 14),
               Text('Phone / WhatsApp / SMS:', style: TextStyle(fontWeight: FontWeight.bold)),
               SelectableText(
-                developerPhone,
-                style: TextStyle(fontSize: 16, color: AppTheme.zecBlue, fontWeight: FontWeight.bold),
+                'Airtel: $airtelMoneyPhone\nTNM: $mpambaPhone',
+                style: TextStyle(fontSize: 15, color: AppTheme.zecBlue, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 12),
               Text('Email:', style: TextStyle(fontWeight: FontWeight.bold)),

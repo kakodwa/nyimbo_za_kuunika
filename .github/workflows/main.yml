@@ -1,41 +1,204 @@
-name: nyimbo_za_kuunika
-description: "A new Flutter project."
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+name: Flutter Multi-Platform Build
 
-version: 1.0.0+1
+on:
+  push:
+    branches:
+      - main
 
-environment:
-  sdk: ^3.11.5
+jobs:
 
-dependencies:
-  flutter:
-    sdk: flutter
-  provider: ^6.0.5
-  shared_preferences: ^2.2.2
-  wakelock_plus: ^1.1.4
-  cupertino_icons: ^1.0.8
+  # ============================================================
+  # ANDROID BUILD
+  # ============================================================
+  build-android:
+    name: Build Android (APK & AAB)
+    runs-on: ubuntu-latest
 
-  record: ^5.2.0          
-  audioplayers: ^5.2.1   
-  path_provider: ^2.1.0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-dependency_overrides:
-  record_platform_interface: 1.5.0
+      - name: Set up Java JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^6.0.0
-  flutter_launcher_icons: ^0.13.1
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.41.7
+          cache: true
 
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/hymn_data.json
-    - assets/logo.png
+      - name: Get dependencies
+        run: flutter pub get
 
-flutter_launcher_icons:
-  android: "mipmap/ic_launcher"
-  ios: true
-  image_path: "assets/logo.png"
-  min_sdk_android: 21
+      - name: Build APK
+        run: flutter build apk --release
+
+      - name: Build AAB
+        run: flutter build appbundle --release
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: malatrade-android-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
+
+      - name: Upload AAB
+        uses: actions/upload-artifact@v4
+        with:
+          name: malatrade-android-aab
+          path: build/app/outputs/bundle/release/app-release.aab
+
+
+  # ============================================================
+  # iOS BUILD
+  # ============================================================
+  build-ios:
+    name: Build iOS IPA
+    runs-on: macos-latest
+
+    steps:
+      # --------------------------------------------------------
+      # Checkout repository
+      # --------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --------------------------------------------------------
+      # Set up Flutter
+      # --------------------------------------------------------
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.41.7
+          cache: true
+
+      # --------------------------------------------------------
+      # Get dependencies
+      # --------------------------------------------------------
+      - name: Get dependencies
+        run: flutter pub get
+
+      # --------------------------------------------------------
+      # Import Apple certificate
+      # --------------------------------------------------------
+      - name: Install Apple certificate
+        env:
+          IOS_CERTIFICATE_BASE64: ${{ secrets.IOS_CERTIFICATE_BASE64 }}
+          IOS_CERTIFICATE_PASSWORD: ${{ secrets.IOS_CERTIFICATE_PASSWORD }}
+        run: |
+          CERTIFICATE_PATH="$RUNNER_TEMP/certificate.p12"
+          KEYCHAIN_PATH="$RUNNER_TEMP/build.keychain-db"
+
+          echo "Decoding Apple certificate..."
+
+          printf '%s' "$IOS_CERTIFICATE_BASE64" | base64 --decode > "$CERTIFICATE_PATH"
+
+          echo "Checking certificate file..."
+          ls -lh "$CERTIFICATE_PATH"
+          file "$CERTIFICATE_PATH"
+
+          echo "Testing PKCS12 certificate..."
+
+          openssl pkcs12 \
+            -in "$CERTIFICATE_PATH" \
+            -info \
+            -noout \
+            -passin pass:"$IOS_CERTIFICATE_PASSWORD"
+
+          echo "Creating temporary keychain..."
+
+          security create-keychain \
+            -p "temporary" \
+            "$KEYCHAIN_PATH"
+
+          security set-keychain-settings \
+            -lut 21600 \
+            "$KEYCHAIN_PATH"
+
+          security unlock-keychain \
+            -p "temporary" \
+            "$KEYCHAIN_PATH"
+
+          security import "$CERTIFICATE_PATH" \
+            -P "$IOS_CERTIFICATE_PASSWORD" \
+            -A \
+            -t cert \
+            -f pkcs12 \
+            -k "$KEYCHAIN_PATH"
+
+          security set-key-partition-list \
+            -S apple-tool:,apple: \
+            -s \
+            -k "temporary" \
+            "$KEYCHAIN_PATH"
+
+          security list-keychain \
+            -d user \
+            -s "$KEYCHAIN_PATH"
+
+          echo "Apple certificate imported successfully."
+
+
+      # --------------------------------------------------------
+      # Install provisioning profile
+      # --------------------------------------------------------
+      - name: Install provisioning profile
+        env:
+          IOS_PROVISIONING_PROFILE_BASE64: ${{ secrets.IOS_PROVISIONING_PROFILE_BASE64 }}
+        run: |
+          PROFILE_PATH="$RUNNER_TEMP/profile.mobileprovision"
+
+          echo "Decoding provisioning profile..."
+
+          printf '%s' "$IOS_PROVISIONING_PROFILE_BASE64" | base64 --decode > "$PROFILE_PATH"
+
+          echo "Checking provisioning profile..."
+          ls -lh "$PROFILE_PATH"
+          file "$PROFILE_PATH"
+
+          mkdir -p "$HOME/Library/MobileDevice/Provisioning Profiles"
+
+          cp "$PROFILE_PATH" \
+            "$HOME/Library/MobileDevice/Provisioning Profiles/"
+
+          echo "Provisioning profile installed successfully."
+
+
+      # --------------------------------------------------------
+      # Check Xcode signing identities
+      # --------------------------------------------------------
+      - name: Check signing identities
+        run: |
+          echo "Available signing identities:"
+          security find-identity -v -p codesigning \
+            "$RUNNER_TEMP/build.keychain-db"
+
+
+      # --------------------------------------------------------
+      # Build signed IPA
+      # --------------------------------------------------------
+      - name: Build iOS IPA
+        run: |
+          flutter build ipa --release
+
+
+      # --------------------------------------------------------
+      # Check generated IPA
+      # --------------------------------------------------------
+      - name: Check IPA
+        run: |
+          echo "Generated IPA files:"
+          ls -lh build/ios/ipa/
+
+
+      # --------------------------------------------------------
+      # Upload IPA
+      # --------------------------------------------------------
+      - name: Upload IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: malatrade-ios-ipa
+          path: build/ios/ipa/*.ipa
