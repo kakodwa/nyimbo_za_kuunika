@@ -1,0 +1,1966 @@
+{
+  "hymns": [
+    {
+      "id": 1,
+      "number": 1,
+      "title": "Bwenzi lina longa Yesu",
+      "category": "Main",
+      "verses": [
+        "1. Bwenzi lina longa Yesu, palibe\nAngathe wina kutichiritsa? Iyayi",
+        "2. Pena womfuna adakanidwa? Palibe\nAdzatikaniza malo m'mwamba? Iyayi",
+        "3. Alipo mpulumutsi wina? Palibe\nWoti angatithandize ife? Iyayi"
+      ],
+      "chorus": "Yesu adziwa zathu zonse,\nIye adzanditsogoza.\nBwenzi lina longa Yesu, palibe"
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "title": "Chikondi ndichotu",
+      "category": "Main",
+      "verses": [
+        "1. Chikondi ndichotu,\nChiyanjanitsafe;\nPakukondana ifeyo\nTitsanza m'mwambamo",
+        "2. Pamaso pakepo\nTigwade tonsefe\nChiyembekezo chathucho\nNchimodzimodzidi",
+        "3. Tithandizanedi\nM'mavuto athuwo\nTimasangalatsanatu\nM'nsoni zomwenso",
+        "4. Tikalekanafe\nTimamva chisoni\nTikhulupira kutitu\nTidzaonananso"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "title": "Ndinamira m'machimo",
+      "category": "Main",
+      "verses": [
+        "1. Ndacumwa machimo, wosaonekanso\nNdinamera milithudi, wosaturukanso\nKoma Yesu adamva, kulira kwanguko\nNandipulumutsa ku machimo",
+        "2. Mtimanga wanga ndipatsa, ndioramangara\nNdidzakhala mwa iye, ndikumyimtinabe\nMtima wanga uyimba, za chikondi chake\nLero ndidzatumikiwa Yesuyo",
+        "3. Ovulika penyani, Yesu onse\nAdzakumukutsani m'malunde opsyas\nNdiye mwini nyanjayo, mafunde\nAkhozadi kukupulumutsani"
+      ],
+      "chorus": "Nandikweza (kweza)\nNandikweza (kweza)\nPonics m'thopemo\nAndikweza\nNandikweza nandikweza\nPomira m'thopemo\nAndikweza"
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "title": "Anthu aku m'mawawo",
+      "category": "Main",
+      "verses": [
+        "1. Anthu aku m'mawawo adatsata nyenyezi\nYotangoza beratu ndikuwara kwakeko\nMomwemo tifunale kufikia kwa Ambuye",
+        "2. Adatulumwatumwachimwemwe, ku Yesu\nMwini yo namgwadina\nMomwemo, mokondweta fe mila Sea",
+        "3. Napenika unthumo mphatici za mitenge wake\nKame Yesuy-tutans mule gold\nChanchic lipersikele zome zulu kweiye",
+        "4. Milyendetse Mbuyahu raz\nMilletise inadi mkoa wa\nKomere tidrapenyatu beeno Who yanuyo"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "title": "Mbuye sindisamala",
+      "category": "Main",
+      "verses": [
+        "1. Mbuye sindisamala kukhala wachuma\nNdifuna kukalowa maziko lakumambo\nM'buku lokometsatsa is ufumu wenu\nKodi lalembedwamo, Mbuye dzina langa?",
+        "2. Machimo anga alipo ambirimbiri\nKoma mwazi wa Mpulumutsi wanga\nChifukwa lonsenzo palibe\nNgakhale alipo nddzanayesa",
+        "3. Kumzinda wokoma wa m'mwamba\nNdi anthu obvala zoyera\nKumene choipa sichidzarowa\nKodi dzina langa pokhala m'malo?"
+      ],
+      "chorus": "Kodi dzina langa lalembedwa m'mwamba?\nM'buku la ufumuwo kodi lalembedwa?"
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "title": "Ndipula Y Yesu wanga, ndikondatu",
+      "category": "Main",
+      "verses": [
+        "1. Ndipula Y Yesu wanga, ndikondatu\nKuni ndisacomwwy\nKundlandira moyo\nNdi chimwemwe chakacho",
+        "2. Nakondwera pakumdza Mpulumutsi wangayo\nAthala nane mpaka chimaliziro"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "title": "Sangatansa akus",
+      "category": "Main",
+      "verses": [
+        "1. Sangatansa akus, masiku alikutha\nPali anthu otayika, masiku alikutha\nNgati tiyondwerera pasuyenda ulendowa\nTonse zachita bwino, masiku alikutha",
+        "2. Tisakhome aulesi, masiku alikutha\nChakondlostimet lodzala ndi chisoni\nThangatani akugwa, masiku alikutha",
+        "3. Tamangowano unyolo masiku alikutha\nTisiyelu zoipa makamaka\nTonsele zabweneky Mangu\nNico Sitokondwete kuha"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "title": "Ndifuna kuimbiradi",
+      "category": "Main",
+      "verses": [
+        "1. Ndifuna uyimbra\nZalenakuza Yesu\nPakandikonda ine\nYamuyo\nMane mlene amoyoko",
+        "2. Fatumus Ambuye\nWolkhamedwa bestande\nAliwonnicle dakoli\nDiepe chesa",
+        "3. Uthenga wanu, Mbuyathu\nNdifuna kubukitsa\nKuti ochima enanso\nAyambe kuyimbira"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "title": "Ndinasokera mtalimo",
+      "category": "Main",
+      "verses": [
+        "1. Ndinasochera mtalimo,\nMbuye ndidzako\nNdilapa tchimo langa,\nMbuye ndidzako",
+        "2. Ndamweza zaka zambi,\nMbuye ndidzako\nUwawa mtima wangawu,\nMbuye ndidzako",
+        "3. Ndatopa ndi zoipazi,\nMbuye ndidzako\nNdimvera mau anuwo,\nMbuye ndidzako",
+        "4. Anundifera Yesuyo,\nMbuye ndidzako\nNdiyembekeza Iyeyo,\nMbuye ndidzako",
+        "5. Ndisowe mwazi wenuwo,\nMbuye ndidzako\nNdisukeni ndiyere mbuu!\nMbuye ndidzako"
+      ],
+      "chorus": "Ndidzako, ndidzako, ndiri kudza ko\nMwa chifundo chachitu Mbuye ndidzalio"
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "title": "Ndiribetu manyazi'ne",
+      "category": "Main",
+      "verses": [
+        "1. Ndiribetu manyazi'ne\nKutivomera Mbuye\nYemwe anandifera 'ne\nImfa ya pamtanda",
+        "2. Yesu ulemelero wanga\nNdidziwa mwa Iye\nIye sadzanditaya 'ne\nPa siku lipilolo",
+        "3. Ndakopekatu m'limamu\nNdi Mbuyanga Yesu\nKuti ali wamphamvutu\nWakundisungabe",
+        "4. Yerusalemu woyera\nWotsika kumwamba\nMzinda wa Mulungu wanga\nMomwe ndidzakhala"
+      ],
+      "chorus": "Pamtanda pamtanda\nNdidaona kuwala\nNdipo mdima wangawo usachoka\nNdionatu mbeee!\nNdiri kukondwa tsiku lonse"
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "title": "Ndiimba ndi chimwemwe",
+      "category": "Main",
+      "verses": [
+        "1. Ndiimba ndi chimwemwe lero:\nKale ndidalephera\nYesu adachotse machimo, Aleluya\nO Aleluya - O Walowa",
+        "2. Walowa ndi chikondi chake\nMumtima wa chisoni\nTsiku lonse ndirikuyimba, O Aleluya",
+        "3. Chiyanjano chathu chinabwino\nChopose china chonse:\nPokhala ndi Yesu nakondwadi Aye",
+        "4. Bwerani ndi nkhawa zanu zonse\nKwa Yesu wokondedwa\nInunso mudzayimbe ndithu Aleluya"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "title": "Kuli dziko lakuwala",
+      "category": "Main",
+      "verses": [
+        "1. Kuli dziko lakuwala ndithu\nKunthawi zosatha\nKamwe kulibe mdima be!\nChimwemwe chosathanso",
+        "2. Kuli dziko lamlendedwa\nKokhala Yesuyo\nKomwe kulibe mdima be!\nChimwemwe chosathanso"
+      ],
+      "chorus": "Aflanctawo!\nKorona ndizavala\nPamodzi ndi woyera\nMdziko lina"
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "title": "Mulungu watafaniza",
+      "category": "Main",
+      "verses": [
+        "1. Mulungu watafaniza zoipa zangawo\nWerengani malombe m'buku la Yesaye\nMutu 44 ndime 22\nWatafaniza zoipa zanga walero",
+        "2. Yesu kuowera kutenga anthu ake\nTemawerenga choncho m'buku la Yohane\nMutu ndi 14, ndime 1,2,3\nAdzandilenga ndikumlendira tsopano!",
+        "3. Mau Woyera yathu natu\nTione atziowe zaru m'buku la Mateu\nTimerengamo 1 1,2,3\nMonga kale rechco yansuyo tapano"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "title": "Mulungu adapatsa moyo",
+      "category": "Main",
+      "verses": [
+        "1. Mulungu adapatsa moyo\nMoyo, moyo wosatha\nMulungu sosapana moyo\nAdapatsa moyo wosatha",
+        "2. Adakana moyo\nMoyo, moyo wosatha\nAnthu adakana moyo\nAdakana moyo wosatha",
+        "3. Apatsanso moyo\nMoyo, moyo wosatha\nApatsanso moyo wosatha",
+        "4. Kodi mulandira moyo?\nMoyo, moyo wosatha\nKodi mulandira moyo?\nMusalindire tsopano",
+        "5. Talandira moyo\nMoyo, moyo wosatha\nIfe talandira moyo wosatha\nNislandes?",
+        "6. Moyo uwoneke moyo, moyo\nMoyo, wosatha\nMoyo uwoneke moyo, moyo\nUwoneke moyo wosatha"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "title": "M'khola, m'khola",
+      "category": "Main",
+      "verses": [
+        "1. M'khola, m'khola\nM'khola la ng'ombe\nM'khola la ng'ombe\nKuli Yesu, Yesu wabadwa,\nwabadwa, wabadwa\nKuli Yesu, Yesu wabadwa, M'khola la ng'ombe",
+        "2. Abusa, abusa\nAbusa a Betlehemu\nAbusa a Betlehemu\nAdaona, ona angelo, angelo, angelo\nAdaona, ona angelo oyimba, Hosanna!",
+        "3. Anzeru, anzeru\nAnzeru aku m'mawa\nAnzeru aku m'mawa\nAdatsata, tsata nyenyezi, nyenyezi nyenyezi\nAdatsata, tsata nyenyezi, napeza Yesuyo",
+        "4. Pofika, pofika\nPofika ku Betlehemu\nPofika ku Betlehemu\nAdaona, ona mwanayo, mwanayo, mwanayo\nAdaona, ona mwanayo natama Mulungu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "title": "Sankha yako",
+      "category": "Main",
+      "verses": [
+        "1. Sankha yako, sankha yako\nPali njira ziwiri;\nSankha yako, sankha yako\nPali njira ziwiri;\nNjira ina yaku moyo\nIna yomka ku imfa\nSankha yako, sankha yako\nPali njira ziwiri;",
+        "2. Konza malo, konza malo\nUngasowe pokhala;\nKonza malo, konza malo\nUngasowe pokhala;\nMalo ena ngasatana,\nEna a kumwambako\nKonza malo, konza malo\nUngasowe pokhala;"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "title": "Ambuye alitu thanthwe",
+      "category": "Main",
+      "verses": [
+        "1. Ambuye alitu Thanthwe\nM'mene ndibisalamo\nPotchinjiriza namondwe\nOdwala ndi olemawo",
+        "2. Mafunde akagundafe\nNthawi ya namondweyo\nAlipo wothandiza'fe\nNthawi ya namondweyo",
+        "3. Lingatu la usikuwo\nNthawi ya namondwe\nOsaopa moopsyamo\nNthawi ya namondweyo"
+      ],
+      "chorus": "O! Yesu ndiye thanthwe kwa olematu\nOlematu, olematu\nO! Yesu ndiye thanthwe kwa olematu\nPa nthawi ya namondweyo"
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "title": "Kodi mwafunsa Yesu?",
+      "category": "Main",
+      "verses": [
+        "1. Kodi mwafunsa Yesu za kutsuka kwake?\nKodi mwasamba m'mwazi wake?\nKodi mwakhulupilira chisomocho?\nKodi mwasamba m'mwazi wake?",
+        "2. Kodi mukuyenda ndi mpulumutsiyo?\nKodi mwasamba m'mwazi wake?\nKodi mwapuma pa mtanda wa Yesu?\nKodi mwasamba m'mwazi wake?",
+        "3. Kodi mwakonzeka pakubwera kwake?\nKodi mwasamba m'mwazi wake?\nKodi mukalowa m'malo abwino?\nKodi mwasamba m'mwazi wake?"
+      ],
+      "chorus": "Kodi mwatsukidwa ndi mwazi woyera wa Yesu?\nKodi zobvala zanu ndi zoyera?\nKodi mwasamba m'mwazi wake?"
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "title": "Chipata chochinjikako",
+      "category": "Main",
+      "verses": [
+        "1. Chipata chochinjikako\nChionetsera cheza,\nKuchokatu kwa mtandawo\nChikondi chioneka",
+        "2. Chipata n'chauleretu\nKwa onse akufuna\nAchuma, osaukanso,\nAmtundu uliwonse",
+        "3. Pitanitu mtsogolomo\nChipata nchosatseka\nLandira mtanda wakewo\nMbonitu ya chikondi",
+        "4. Patsidya tidzatulapo\nMtandawo wa manyazi\nDzabvalatu koronayo\nDzamkonda 'Ye koposa"
+      ],
+      "chorus": "Mwaluba ine ko Chipata chakumwamwako?\nIne, ine mwatchinjikira ine"
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "title": "Ndalimva dziko",
+      "category": "Main",
+      "verses": [
+        "1. Ndalimva dziko la mtalimo\nMunthu sangathe kulisimba\nMalowo awala koposa\nNdi Yesu tidzakhala uko",
+        "2. Musazengereze anthuni\nChimwemwe uko chilipodi\nAnthuni mudzalandiradi\nNdi Yesu tidzakhala uko",
+        "3. Mwana'we patseni mtimako\nAkuchotsere zoipazo\nUdzakhala wokondweradi,\nE! Nkwabwino lola mwana'we",
+        "4. Idzani, mverani, lapani\nChipulumutso chiripodi\nKwa Yesu yemwe woferanu\nNdi Yesu mudzanka kumwamba"
+      ],
+      "chorus": "Komweko, komweko\nNdi Yesu tidzakhala uko"
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "title": "Mundipatse mafuta",
+      "category": "Main",
+      "verses": [
+        "1. Mundipatse mafuta a m'nyali\nNdipemphatu Ambuye'nu\nMundipatse mafuta a m'nyali\nNdiyakebe mpaka mudzanso",
+        "2. Mundiyendetse ndinu Ambuye\nMundiphunzitse inutu\nMundiyendetse ndinu Ambuye\nNdiphunzire mpaka mudzanso",
+        "3. Mundikhalitse pansi pa mtanda\nNdipemphatu Ambuye'Nu\nMundikhalitse pansi pa mtanda\nNdigonjetu mpaka mudzanso",
+        "4. Mundipatse mtendere m'timanga\nNdipemphatu Ambuye Nu\nMundipatse mtendere m'timanga\nNdipumule mpaka mudzanso",
+        "5. Mundipatse chimwemwe m'timanga\nNdipemphatu Ambuye Nu\nMundipatse chimwemwe m'timanga\nNdiyimbire mpaka mudzanso"
+      ],
+      "chorus": "Yimbirani, yimbirani\nHosana kwa mfumu ya mafumuyo!\nYimbirani, yimbirani\nHosana kwa mfumuyo!"
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "title": "Yesu afuna inu kukhala",
+      "category": "Main",
+      "verses": [
+        "1. Yesu afuna inu kukhala\nKuti timvere mau ake okoma\nLowani, lowani, lowani, Yesu sakana\nLowani, lowani, lowani, Yesu sakana",
+        "2. Ngati sitikondana ndi Yesu\nPobwera Yesu tidzazunzidwa",
+        "3. Anthu ati \"Nafe tikapuma\"\nKoma sadziwa kupuma kwake",
+        "4. Yesu ati \"Idzani mupumule\"\nIne ndine mpumulo wa moyo",
+        "5. Mukafuna moyo mudzapeza;\nMtendere udzakhala ndi inu",
+        "6. Kodi mufuna moyo wosatha?\nMverani Yesu mwana wa Mulungu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "title": "",
+      "category": "Main",
+      "verses": [],
+      "chorus": null
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "title": "",
+      "category": "Main",
+      "verses": [],
+      "chorus": null
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "title": "",
+      "category": "Main",
+      "verses": [],
+      "chorus": null
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "title": "Kuseli kwa mitambo",
+      "category": "Main",
+      "verses": [],
+      "chorus": null
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "title": "Inu mwa mandotanso",
+      "category": "Main",
+      "verses": [
+        "1. Inu mwamandotanso, Yesu akwitana\nInu mwamandotanso, Yesu akwitana\nDzani 'dzani dzanitu!\nIdzani inu nonse Yesu akwitana",
+        "2. Inu mwamafumunso, Yesu akwitana\nInu mwamafumunso, Yesu akwitana",
+        "3. Inu mwa amayinso, Yesu akwitana\nInu mwa amayinso, Yesu akwitana",
+        "4. Inu okalambanso, Yesu akwitana\nInu okalambanso, Yesu akwitana",
+        "5. Inu mwa tiananso, Yesu akwitana\nInu mwa tiananso, Yesu akwitana",
+        "6. Inu mwa'nyamatanso, Yesu akwitana\nInu mwa'nyamatanso, Yesu akwitana",
+        "7. Inu mwa mauthunso, Yesu akwitana\nInu mwa mauthunso, Yesu akwitana"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "title": "Pa mtanda Mbuye adafera",
+      "category": "Main",
+      "verses": [
+        "1. Pa mtanda Mbuye adafera\nNdidadzapo ndi tchimo langa\nPomwe mtima wanga watsukidwa,\nUlemelera",
+        "2. Ndapulumuka modabwitsa\nYesu analowa mu mtimanga,\nPa mtanda adandilandira\nUlemelero",
+        "3. Chitsime chotsukira tchimo\nNdikondwa kuti ndalowanso,\nMomwe amandidyetseramo,\nUlemelero",
+        "4. Bwera ku chitsime chokoma\n'Dzigwetsere pa phazi lake,\nLumphamo lero utsukidwe,\nUlemelero"
+      ],
+      "chorus": "Ulemelero kwa dzina lake\nPomwe mtimanga watsukidwa,\nUlemelero"
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "title": "Wabadwa, wabadwa",
+      "category": "Main",
+      "verses": [
+        "1. Wabadwa, wabadwa, Mpulumutsi Yesuyo wabadwa\nWabadwa, wabadwa, Mpulumutsi Yesuyo wabadwa\nMngelo adasimba, Mpulumutsi Wabadwa, (Alleluya)\nWabadwa, wabadwa, mpulumutsi Yesuyo wabadwa",
+        "2. Wauka, wauka, Mpulumutsi Yesuyo wauka,\nWauka, wauka, Mpulumutsi Yesuyo wauka,\nMngelo adasimba, wauka kwa akufa, (Alleluya)\nWauka, wauka, Mpulumutsi Yesuyo wauka,",
+        "3. Wachoka, wachoka katundu, wa mu mtima wachoka\nWachoka, wachoka katundu, wa mu mtima wachoka\nZoipa zonse zachoka m'mwazi wake wa Yesu. (Alleluya)\nWachoka, wachoka katundu, wa mu mtima wachoka"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "title": "Mwazi udatsika",
+      "category": "Main",
+      "verses": [
+        "1. Mwazi udatsika pa mtanda tidaona\nKutsuka ife unaali wa mtengo wapatali\nO! Yesudi mdafera chifukwa cha ife:\nPa mtandapo onani mwaziwo woyenda",
+        "2. Ha! Kulemera mtandawo Mbuye nasenza\nWomwe udamgwetsa Iye ku Gologotako.",
+        "3. Yesu mudadzukanso kumanda lero lino\nMudati, mwatha ntchito ya kupulumutsa anthu",
+        "4. Ambuye mudatiwombola ndi mwazi wanu\nChifukwa cha chikondi chanu Chopambanacho.",
+        "5. O! Yesu tikukondani tonsefe, tibwera\nChifukwa inu ndinu mwini Wamphamvu yonse."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "title": "Ndafika m'dziko lokoma",
+      "category": "Main",
+      "verses": [
+        "1. Ndafika m'dziko lokoma\nNdi zinthu zonsezo zanga;\nChisoni chonse chidzatha\nChimwemwe chokha chikhala",
+        "2. Wopulumutsa Yesuyo\nAnditsogoza m'njirayo;\nAlankhulana nanetu\nMpaka ndifike komweko",
+        "3. Ndiyimba za cholowachi\nNdidza chimwemwe chosatha\nChifundo chake chikhala\nPa anthu onse oyimba",
+        "4. Angelo onse ayimba\nZa zinthu zonse zam'mwamba\nMipingo yonse ya Mulungu\nIyimba za mombolo'yo"
+      ],
+      "chorus": "Ha! Dzikolo lokomadi\nNdingoima paphiripo\nNdiyang'anira komweko ku nyumba zokonzedwazo\nNdiyang'anira dzikolo komwe ndidzakakhalako"
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "title": "Mibvumbi ya madalitso",
+      "category": "Main",
+      "verses": [
+        "1. Mibvumbi ya madalitso,\nIli ndi lonjezano\nLidzadza nyengo ya mvula\nYotumidwa ndi Mbuye",
+        "2. Mibvumbi ya madalitso,\nYotitsitsimutsanso;\nPa mapiri ndi pa madambo\nPamvekedwe mvulayo",
+        "3. Mibvumbi ya madalitso,\nBwenzi itatigwera;\nKwa Mulungu tibvomereza\nKwa Yesu tiitana",
+        "4. Mibvumbi ya madalitso,\nNgati timvera ife;\nMvulayo itsanulidwa\nMonga kufuna kwake."
+      ],
+      "chorus": "Mibvumbi ndiyo, ya madalitso idze\nMadontho akugwa koma, mibvumbiyo itsike"
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "title": "Ndiri kuliranji?",
+      "category": "Main",
+      "verses": [
+        "1. Ndirikuliranji?\nSizikwana nsonizo\nKuleketsa, manthawo\nKuulula machimo\nKundipulumutsa",
+        "2. Ndikangamiranji?\nMaganizo ndi nchito\nZonse zanga zabwino\nZomwe zili mtimamo\nSizindilamitsa",
+        "3. Ndili kuchedwanji?\nWotayika, wofoka\nWakuchita zoipa;\nNdikachedwa ndidzafa\nWosapulumuka",
+        "4. Ndipulupudzanji?\nYesu, ntchito adatha\nYakundipulumutsa\nMbuye mundithandize\nKukhulupilira."
+      ],
+      "chorus": "Yesu Khristu nalira,\nNandifera pa mtanda;\nNdipo andilindira\nKundipulumutsa"
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "title": "Mkulu anadza kwa Yesu",
+      "category": "Main",
+      "verses": [
+        "1. Mkulu anadza kwa Yesu Mbuye\nNafunsira Iye za moyo wina\nYesu adatero kwa wofunsayo\n\"Ukabadwensotu\"",
+        "2. Nonsenu akumva mau omwewo\nAdalankhulidwa ndi mfumu ija\nMusapeputsebe zonena zake\nMukabadwensotu",
+        "3. Anthunu ofuna kupuma kwake\nKuyimba kumwamba za kuombola\nMoyowo umene mudzakhala nawo\nMukabadwensotu",
+        "4. Ambiri ambiri amasochera\nMu njira ya imfa akunyengedwa\nIdzani kwa Yesu mkhulupirireni\nNdikubadwansotu"
+      ],
+      "chorus": "Mukabadwensotu! Mukabadwensotu!\nMau a mfumu ngomveka lero:\nMuzibadwansotu."
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "title": "E kwathu ndi kumwamba",
+      "category": "Main",
+      "verses": [
+        "1. E Kwathu ndi kumwambako,\nE Kwathu ndi kumwambako,\nE Kwathu ndi kumwambako,\nTidzakondwerako\nTiyeni ku mwamba ndi Ambuye Yesu\nTiyeni ku mwamba tidzakondwerako",
+        "2. E Mudzitembenukatu,\nE Mudzitembenukatu,\nE Mudzitembenukatu,\nKukakondwerako.",
+        "3. Muyeretsedwe m'mtimamo,\nMuyeretsedwe m'mtimamo,\nMuyeretsedwe m'mtimamo,\nKukakondwerako.",
+        "4. Mukhale olungamatu,\nMukhale olungamatu,\nMukhale olungamatu,\nMukakondwerako.",
+        "5. M'menyane ndi zoipazo,\nM'menyane ndi zoipazo,\nM'menyane ndi zoipazo,\nKukakondwerako.",
+        "6. Musenze msanga mtandawo,\nMusenze msanga mtandawo,\nMusenze msanga mtandawo,\nKukakondwerako."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "title": "Yesu apita pano",
+      "category": "Main",
+      "verses": [
+        "1. Yesu apita pano, pano, pano,\nYesu apita pano, apita pano lero.",
+        "2. Yesu afuna iwe, iwe, iwe,\nYesu afuna iwe, afuna iwe lero.",
+        "3. Yesu afuna ine, ine, ine,\nYesu afuna ine, afuna ine lero.",
+        "4. Yesu akonda ine, ine, ine,\nYesu akonda ine, akonda ine lero."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "title": "Yesu ndidzina",
+      "category": "Main",
+      "verses": [
+        "1. Yesu ndidzina, Yesu ndidzina, Yesu ndidzina, la Mbuye\nYesu ndidzina, Yesu ndidzina, Yesu ndidzina, la Mbuye\nAleluya, Aleluya, Yesu ndi dzina la Mbuye\nAleluya, Aleluya, Yesu ndi dzina la Mbuye",
+        "2. Yesu nkuunika, Yesu nkuunika, Yesu nkuunika, kwa dziko\nYesu nkuunika, Yesu nkuunika, Yesu nkuunika, kwa dziko",
+        "3. Yesu ndi mkate, Yesu ndi mkate, Yesu ndi mkate wa moyo\nYesu ndi mkate, Yesu ndi mkate, Yesu ndi mkate wa moyo",
+        "4. Yesu ndi madzi, Yesu ndi madzi, Yesu ndi madzi a moyo\nYesu ndi madzi, Yesu ndi madzi, Yesu ndi madzi a moyo",
+        "5. Yesu ndi njira, Yesu ndi njira, Yesu ndi njira ya moyo\nYesu ndi njira, Yesu ndi njira, Yesu ndi njira ya moyo",
+        "6. Yesu ndi khomo, Yesu ndi khomo, Yesu ndi khomo lamoyo\nYesu ndi khomo, Yesu ndi khomo, Yesu ndi khomo lamoyo",
+        "7. Yesu ndi Mbusa, Yesu ndi Mbusa, Yesu ndi Mbusa wabwino\nYesu ndi Mbusa, Yesu ndi Mbusa, Yesu ndi Mbusa wabwino"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "title": "Mwandiitana, ndavomera",
+      "category": "Main",
+      "verses": [
+        "1. Mwand'itana, ndabvomera,\nMwand'itana, ndabvomera,\nMwand'itana, ndabvomera,\nNdidzakutumikirani, Ambuye.",
+        "2. M'midzi yonse ndidzayenda,\nM'midzi yonse ndidzayenda,\nM'midzi yonse ndidzayenda,\nNdidzakutumikirani, Ambuye.",
+        "3. Kuli konse ndidzapita,\nKuli konse ndidzapita,\nKuli konse ndidzapita,\nNdidzakutumikirani, Ambuye."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "title": "Yesu adampatsa madzi",
+      "category": "Main",
+      "verses": [
+        "1. Yesu adampatsa madziwo amoyo,\nYesu adampatsa madziwo amoyo,\nNapita nasimbira. Nabwerera ndi ena,\nIwonso adafuna madziwo a moyo",
+        "2. Yesu apatsabe madziwo amoyowo,\nYesu apatsabe madziwo amoyowo,\nKwa wokhulupilira ndi wakumulandira,\nYesutu apatsabe madziwo a moyo",
+        "3. Madzi otumphukira kumoyo wosatha.\nMadzi otumphukira kumoyo wosatha.\nMumtimamu mwa Khristu, Kasupeyo wa madzi\nAmatumphukira kumoyo wosatha"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "title": "Chenjera ndi maso ako",
+      "category": "Main",
+      "verses": [
+        "1. Chenjera ndi maso ako, chenjera\nChenjera ndi maso ako, chenjera\nMpulumutsi Yesuyo Akusuzumiradi\nChenjera ndi maso ako, chenjera.",
+        "2. Chenjera ndi khutu lako, chenjera\nChenjera ndi khutu lako, chenjera\nMpulumutsi Yesuyo Akusuzumiradi\nChenjera ndi khutu lako, chenjera.",
+        "3. Chenjera ndi mkamwa mwako, chenjera\nChenjera ndi mkamwa mwako, chenjera\nMpulumutsi Yesuyo Akusuzumiradi\nChenjera ndi mkamwa mwako, chenjera.",
+        "4. Chenjera ndi manja ako, chenjera\nChenjera ndi manja ako, chenjera\nMpulumutsi Yesuyo Akusuzumiradi\nChenjera ndi manja ako, chenjera.",
+        "5. Chenjera ndi phazi lako, chenjera\nChenjera ndi phazi lako, chenjera\nMpulumutsi Yesuyo Akusuzumiradi\nChenjera ndi phazi lako, chenjera.",
+        "6. Chenjera ndi mtima wako, chenjera\nChenjera ndi mtima wako, chenjera\nMpulumutsi Yesuyo Akusuzumiradi\nChenjera ndi mtima wako, chenjera."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 41,
+      "number": 41,
+      "title": "Wanzeru anamanga",
+      "category": "Main",
+      "verses": [
+        "1. Wanzeru anamanga pathanthwe,\nNamanga nyumba yake pathanthwe\nWanzeru anamanga pathanthwe,\nNdipo mvula idagwa\nMvula niigwaigwabe, Mvula, niigwaigwabe\nMphepo idagundanso, nyumba niima nji!",
+        "2. Wopusa anamanga pa mchenga,\nNamanga nyumba yake pa mchenga\nWopusa anamanga pa mchenga\nNdipo mvula idagwa\nMvula niigwaigwabe, Mvula, niigwaigwabe\nMphepo idagundadi, nyumba idagwa phii!"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "title": "Tchimo langa lonseli",
+      "category": "Main",
+      "verses": [
+        "1. Tchimo langa lonseli lachotsedwa, Lachotsedwa, lachotsedwa\nTchimo langa lonseli lachotsedwapo pamtandapo",
+        "2. Mtendere walowa m'tima mwanga, M'tima mwanga, m'tima mwanga\nMtendere walowa m'tima mwanga, pamtandapo",
+        "3. Chimwemwe chalowa m'tima mwanga, M'tima mwanga, m'tima mwanga\nChimwemwe chalowa m'tima mwanga, pamtandapo"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "title": "Mitengo imagwedezeka",
+      "category": "Main",
+      "verses": [
+        "1. Mitengo imagwedezeka, Imagwedezeka, imagwedezeka\nMitengo imagwedezeka, kutama Ambuye",
+        "2. Udzunso umagwedezeka, Umagwedezeka, umagwedezeka\nUdzunso umagwedezeka, kutama Ambuye",
+        "3. Pereka mtima wako wonse, Mtima wako wonse, mtima wako wonse\nPereka mtima wako wonse, kutama Ambuye"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "title": "Kanyali kanga",
+      "category": "Main",
+      "verses": [
+        "1. Kanyali kanga kakang'ono\nNdikaleke kawale,\nNdikaleke kawale,\nNdikaleke kawale,\nKawale, kawalire Yesu",
+        "2. Bisa pansi padengu, ayi!\nNdikaleke kawale,\nNdikaleke kawale,\nNdikaleke kawale,\nKawale, kawalire Yesu",
+        "3. Satana asazime phuu!\nNdikaleke kawale,\nNdikaleke kawale,\nNdikaleke kawale,\nKawale, kawalire Yesu",
+        "4. M'dziko la Malawi!\nNdikaleke kawale,\nNdikaleke kawale,\nNdikaleke kawale,\nKawale, kawalire Yesu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "title": "Pemphera nthawi ya m'mamawa",
+      "category": "Main",
+      "verses": [
+        "1. Pemphera nthawi ya m'mamawa\nPemphera nthawi ya usana\nPemphera nthawi ya usiku, m'tima m'timamo",
+        "2. Ayankha nthawi ya m'mamawa\nAyankha nthawi ya masana\nAyankha nthawi ya usiku, konzeka m'tima",
+        "3. Angadze nthawi ya m'mamawa\nAngadze nthawi ya masana\nAngadze nthawi ya madzulo, konzeka m'tima"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "title": "Mtima wanga uyamiketu",
+      "category": "Main",
+      "verses": [
+        "1. Mtima wanga uyamiketu\nMfumu yangayo kumwambako\nMtima wanga uyamiketu\nZokoma zake za Yesu",
+        "2. Ndiyamika Yesu wangayo\nAnandifera, adaukanso\nAndipempherera m'Mwambamo\nAbweranso kutenga'ne"
+      ],
+      "chorus": "Yesu, Yesu, Yesu, Inu nokhadi\nNdikuyamikani Ambuye wamoyotu"
+    },
+    {
+      "id": 47,
+      "number": 47,
+      "title": "Chingwe cha moyo",
+      "category": "Main",
+      "verses": [
+        "1. Chingwe cha moyo tamponyeratu\nMnzako akufa m'madzi ndithu\nM'madzi atchimo akumiramo\nTam'gwiratu m'sanga asanafemo",
+        "2. Chingwe cha moyo tamponyeratu\nUzengereza chifukwa ninji\nOna aimira posachedwatu\nUtenge msanga bwato la moyo",
+        "3. Ali kufadi anthu ambiri\nOmira m'nsoni mosalowa'we\nM'mafumde a tsoka abiramo bii\nAponyere chingwe atulukemo",
+        "4. Chingwe cha moyo ndichotu Yesu\nM'madzi atchimo atitulutsa\nAtikometsa tisalowenso\nMombolo wathuyo ndiye Yesu"
+      ],
+      "chorus": "Chingwe cha moyo tamponyeratu\nAli kumira ndithudi\nChingwe chamoyo msangatu msanga\nApulumuke nacho"
+    },
+    {
+      "id": 48,
+      "number": 48,
+      "title": "Akondwera lero akumwamba",
+      "category": "Main",
+      "verses": [
+        "1. Akondwera lero akumwambawo\nAlikudza wosocherayo;\nNdi Atate akomana nayetu\nAmachingamira mwanayo",
+        "2. Dzulo adagona m'thengo moopsya\nLero adzagona m'kholamo\nDzulo idam'gwira njala ya mtima\nLero Yesu amudyetsatu",
+        "3. Dzulo kumva ludzu mkamwa muli gwa!\nLero anamwa madzi amoyo\nDzulo adavala nsanza zakezo\nLero Yesu amubvekatu",
+        "4. Kale adachita zosayenera\nLero alekana nazo\nDzulo nubvutika mtima wakewo\nLero akondwerera nafetu."
+      ],
+      "chorus": "Yimba, yimba, tiyimbitsetu!\nImva, imva akumwambanso,\nPakuona anthu ochulukawo,\nNdiwo ake ake a Yesu"
+    },
+    {
+      "id": 49,
+      "number": 49,
+      "title": "Mukawerenga mau",
+      "category": "Main",
+      "verses": [
+        "1. Mukawerenga Mau a Mulungu,\nMukawerenga Mau a Mulungu,\nMukawerenga Mau a Mulungu\nMudzakula mwa Yesu,\nMudzakula mwa Yesu,\nMudzakula mwa Yesu\nMukawerenga Mau a Mulungu\nMudzakula mwa Yesu",
+        "2. Mukapemphera tsiku ndi tsiku,\nMukapemphera tsiku ndi tsiku,\nMukapemphera tsiku ndi tsiku\nMudzakula mwa Yesu,\nMudzakula mwa Yesu,\nMudzakula mwa Yesu\nMukapemphera tsiku ndi tsiku\nMudzakula mwa Yesu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 50,
+      "number": 50,
+      "title": "Ndatsimikiza kutsata",
+      "category": "Main",
+      "verses": [
+        "1. Ndatsimikiza kutsata Yesu,\nNdatsimikiza kutsata Yesu,\nNdatsimikiza kutsata Yesu\nOsabwerera bwerera m'mbuyo",
+        "2. Ngakhale ndekha ndidzam'ngotsata,\nNgakhale ndekha ndidzam'ngotsata,\nNgakhale ndekha ndidzam'ngotsata\nOsabwerera bwerera m'mbuyo",
+        "3. Za mdziko mbuyo mtanda m'tsogolo,\nZa mdziko mbuyo mtanda m'tsogolo,\nZa mdziko mbuyo mtanda m'tsogolo\nOsabwerera bwerera m'mbuyo",
+        "4. Ngakhale m'bvuto ndidzam'ngotsata,\nNgakhale m'bvuto ndidzam'ngotsata,\nNgakhale m'bvuto ndidzam'ngotsata\nOsabwerera bwerera m'mbuyo."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 51,
+      "number": 51,
+      "title": "Ndiri ndi chimwemwe",
+      "category": "Main",
+      "verses": [
+        "1. Ndiri ndi chimwemwe chachikulu\nMum'timangamu, mum'timangamu, mum'timangamu\nNdiri ndi chimwemwe chachikulu\nMum'timangamu, Aleluya",
+        "2. Ndiri ndi mtendere wopambana\nMum'timangamu, mum'timangamu, mum'timangamu\nNdiri ndi mtendere wopambana\nMum'timangamu, Aleluya",
+        "3. Ndiri naye mzimu woyera\nMum'timangamu, mum'timangamu, mum'timangamu\nNdiri naye mzimu woyera\nMum'timangamu, Aleluya"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 52,
+      "number": 52,
+      "title": "Ndapulumutsidwa",
+      "category": "Main",
+      "verses": [
+        "1. Ndapulumutsidwa, Ndapulumutsidwa,\nNdi mwazi wake wa Yesu, Ndapulumutsidwa",
+        "2. Ndakhululukidwa, ndakhululukidwa\nNdi mwazi wake wa Yesu, Ndakhululukidwa",
+        "3. Ndatchinjirizidwa, Ndatchinjirizidwa,\nNdi moyo wake wa Yesu, Ndatchinjirizidwa.",
+        "4. Ndayanjanitsidwa, Ndayanjanitsidwa,\nNdi mwana wake wa Mulungu, Ndayanjanitsidwa."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 53,
+      "number": 53,
+      "title": "Anthu onse adziwe",
+      "category": "Main",
+      "verses": [
+        "1. Anthu onse adziwe, anthu onse adziwe\nAyenera adziwe, Mbuye Yesu\nNdiye wakukoma mtima, ndiye wo-pambanalu,\nNdiye mpulumutsi wanga, anthu onse adziwe",
+        "2. Anthu onse adziwe, anthu onse adziwe\nAyenera adziwe, ntchito yake\nYesu adafera ife, nasauka pamtanda\nKuti tikalowe m'mwamba, tikakhale nayeko."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 54,
+      "number": 54,
+      "title": "Anyamata, asungwana",
+      "category": "Main",
+      "verses": [
+        "Anyamata, asungwana mtsateni'nu mtsateni\nAfunitsa inu nonse mtsateni'nu mtsateni\nAnapeza mavutowo napereka moyo wake\nNamwa ndulu m'malo mwathu mtsateni'nu mtsateni."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 55,
+      "number": 55,
+      "title": "Yimbani nyimbo mumtima",
+      "category": "Main",
+      "verses": [
+        "Imbani nyimbo mumtima, imbani nyimbo mumtima\nImbani nyimbo mumtima kwa Mfumu ya mafumu\nMulambireni iye mulemekezeni\nImbani nyimbo mumtima kwa Mfumu ya mafumu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 56,
+      "number": 56,
+      "title": "Yesu wandifera, Yesu wandifera",
+      "category": "Main",
+      "verses": [
+        "Yesu wandifera, Yesu wandifera\nNdimkondadi chifukwa wandifera"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 57,
+      "number": 57,
+      "title": "Mzimu wa Mulungu'nu",
+      "category": "Main",
+      "verses": [
+        "Mzimu wa Mulungu Nu mugwe pa ine\nMzimu wa Mulungu'Nu mugwe pa ine\nMundikonze, mundikonze\nMzimu wa Mulungu'Nu mundidzaze'ne"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 58,
+      "number": 58,
+      "title": "Dzuwa liwala",
+      "category": "Main",
+      "verses": [
+        "Dzuwa liwala, dzuwa la m'mwamba\nLiunikira mu mtima mwanga\nO Aleluya! Ndisekerera\nNdiitane Yesu ali wanga"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 59,
+      "number": 59,
+      "title": "Tiwaliretu, tiwaliretu",
+      "category": "Main",
+      "verses": [
+        "Tiwaliretu, tiwaliretu\nAmbuye Yesu watikondafe\nMulemekeze'ye tsiku lonseli\nInde tiwalire Yesu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 60,
+      "number": 60,
+      "title": "Mulungu ngokoma",
+      "category": "Main",
+      "verses": [
+        "Mulungu ngwokoma andithandiza\nAndigwira dzanja langa\nMulungu ngwokoma."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 61,
+      "number": 61,
+      "title": "Mau akhale amoyo",
+      "category": "Main",
+      "verses": [
+        "Mau akhale amoyo\nNdione Inu momwemo\nNdione ndekha, ndione Yesu\nNdione zonsezo."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 62,
+      "number": 62,
+      "title": "Ndiri ndi chuma",
+      "category": "Main",
+      "verses": [
+        "Ndiri ndi chuma chozizwa\nMphatso yosayeseka\nTidzayenda limodzi Baibulo landa ndi ine."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 63,
+      "number": 63,
+      "title": "Timkonde Ambuye",
+      "category": "Main",
+      "verses": [
+        "Timkonde Ambuye, timkonde Ambuye\nChifukwa amatikonda, timkonde Ambuye\nTimvere Ambuye, timvere Ambuye\nChifukwa amatikonda, timvere Ambuye"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 64,
+      "number": 64,
+      "title": "Uzani Yesu",
+      "category": "Main",
+      "verses": [
+        "Uzani Yesu, Uzani Yesu\nNdiye bwenzi lomveka\nKulibe bwenzi lina lotere\nUzani Yesu yekha"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 65,
+      "number": 65,
+      "title": "Uza ena, uza ena",
+      "category": "Main",
+      "verses": [
+        "Uza ena, uza ena, fulumira, uza ena\nYesu awakonda nawafera pamtanda\nFulumira, uza ena."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 66,
+      "number": 66,
+      "title": "Zakeyu anali wamfupifupi",
+      "category": "Main",
+      "verses": [
+        "Zakeyu anali wamfupifupi\nM'mkuyu nakweramo\nKuti akaone Yesu Mbuye, Mwana wa Mulungutu\nPofika Yesu pa mkuyu anaona Zakeyu\nNanena Zakeyu tsika lero ndidya nanu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 67,
+      "number": 67,
+      "title": "Yesu alinane tsiku lonse",
+      "category": "Main",
+      "verses": [
+        "Yesu alinane tsiku lonse\nPantchito ndi pa masewera\nKwathu ndi kwina konseko\nKodi ndimukonda wondisungayo?"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 68,
+      "number": 68,
+      "title": "Taona! Taona!",
+      "category": "Main",
+      "verses": [
+        "Taona! Taona! Ndaima pakhomo ndigogoda\nTaona! Taona! Ndaima pakhomo ndigogoda\nAnyamata akumva mau anga\nAsungwana akumva mau anga\nNakatsegula, tsegula, tsegula chitseko, Ndidzalowa"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 69,
+      "number": 69,
+      "title": "Khalanitu, khulupiliradi",
+      "category": "Main",
+      "verses": [
+        "Khalanitu, khulupiradi,\nKhalanitu, mwachikondicho\nKhalanitu, penyetsetsa'ye\nMwa Yesu khalanitu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 70,
+      "number": 70,
+      "title": "Adandilondola nditasokera",
+      "category": "Main",
+      "verses": [
+        "Anandilondola nditasokera kutaliko;\nAnandipezadi, nlodalatu tsikulo"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 71,
+      "number": 71,
+      "title": "Mudzakhala asodzi",
+      "category": "Main",
+      "verses": [
+        "Mudzakhala asodzi a anthu,\nMudzakhala asodzi a anthu,\nMudzakhala asodzi a anthu,\nMukanditsata,\nMukanditsata,\nMukanditsata,\nMudzakhala asodzi a anthu, Mukanditsata."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 72,
+      "number": 72,
+      "title": "Ali wodabwitsa Yesuyo",
+      "category": "Main",
+      "verses": [
+        "Ali wodabwitsa, Yesuyo,\nAli wodabwitsa, Yesuyo,\nMaso sanaone, makutu sanamve\nZodabwitsa zonse za Yesuyo."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 73,
+      "number": 73,
+      "title": "Andisungadi, Andisungadi",
+      "category": "Main",
+      "verses": [
+        "Andisungadi, andisungadi\nYesu andikonda ine andisungadi."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 74,
+      "number": 74,
+      "title": "Yang'anani kwa Yesu",
+      "category": "Main",
+      "verses": [
+        "Yang'anani kwa Yesu\nPenyani nkhope yakeyo\nNdi chisomo chake cha Yesuyo\nChikwanitsa zofuna zanu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 75,
+      "number": 75,
+      "title": "Yesu wanga, ndikonda Nu",
+      "category": "Main",
+      "verses": [
+        "Yesu wanga ndikonda Nu\nNdikupatsani mtimanga\nLowani lero, khalani muno\nLowani mtimanga Yesu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 76,
+      "number": 76,
+      "title": "Lankhula naye Yesu",
+      "category": "Main",
+      "verses": [
+        "Lankhula naye Yesu zobvutazo,\nLankhula naye Yesu, Iye amvatu\nPa kuyesedwa'we wamphamvu ndi Iyeyu\nPolankhula naye athandizatu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 77,
+      "number": 77,
+      "title": "Yesu yemwe adzabweranso",
+      "category": "Main",
+      "verses": [
+        "Yesu yemwe adzabweranso\nAdzakhala mfumu ponsepo\nTitdzamuona Iye nthawi yomweyo\nDikiranitu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 78,
+      "number": 78,
+      "title": "Chimwemwe chachikulu",
+      "category": "Main",
+      "verses": [
+        "Chimwemwe, chimwemwe chachikulu\nHaya, haya, haya, tisangalaletu\nZochimwa zanga zonse afuna kuzichotsa\nAbwera msangamsanga posachedwatu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 79,
+      "number": 79,
+      "title": "Ndanitu? Ndanitu?",
+      "category": "Main",
+      "verses": [
+        "Ndanitu? Ndanitu? Adzatsata Yesu? Ndani?\nTsatani Iyeyo tsopanoli, tsata Yesudi."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 80,
+      "number": 80,
+      "title": "Khala monga Daniel",
+      "category": "Main",
+      "verses": [
+        "Khala monga Danieli, limba mtima nji!\nUsappe anthu, koma tsata Yesudi."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 81,
+      "number": 81,
+      "title": "Ayenera kukondwera",
+      "category": "Main",
+      "verses": [
+        "Ayenera kukondedwa, Yesu Mpulumutsiyo\nAyenera akondedwe, adasenza machimo\nWokondedwa wa Mulungu, nazunzidwa pa mtanda\nAyenera kukondedwa, Yesu Mpulumutsiyo"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 82,
+      "number": 82,
+      "title": "Timange nyumba zathu",
+      "category": "Main",
+      "verses": [
+        "Timange nyumba zathu, zathu, tsiku, tsiku ndi tsiku\nNyundo, nkhwangwa tiribe\nNkhuni, njerwa tiribe\nNanga opanda manjatu, tsata chitsanzo cha Yesu\nNdife a ntchito otani, omanga bwino makhalidwe?"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 83,
+      "number": 83,
+      "title": "Manja agwira za Yesu",
+      "category": "Main",
+      "verses": [
+        "Manja agwire za Yesu,\nMapazi ayende mwake,\nMakutu amve Uthenga\nMilomo imyamikire,\nMaso apenyere Iye,\nMtima ukhale wake\nZonse ndipatse kwa Yesu, \"Ndine wanu, nokha'Nu\""
+      ],
+      "chorus": null
+    },
+    {
+      "id": 84,
+      "number": 84,
+      "title": "Yesu amakonda ana",
+      "category": "Main",
+      "verses": [
+        "Yesu amakonda ana, ana, onse pansipo\nAmitundu yonseyo, akuda ndi oyera\nYesu amakonda ana onsewo."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 85,
+      "number": 85,
+      "title": "Ndi chimwemwe chachikulu",
+      "category": "Main",
+      "verses": [
+        "Ndi chimwemwe chachikulu\nChikho changa chisefuka\nYesu andipulumutsa, Yesu andikwaniritsa\nChikho changa chisefuka."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 86,
+      "number": 86,
+      "title": "Zikomo Ambuye wanga",
+      "category": "Main",
+      "verses": [
+        "Zikomo Ambuye wanga, zikomo mnandichiritsa\nZikomo mnandipatsatu chipulumutso chachikulu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 87,
+      "number": 87,
+      "title": "Odala ali anthu",
+      "category": "Main",
+      "verses": [
+        "Odala ali anthu odziwa Yesu\nOtsukidwa m'mwazi wake, oyeratu mbuu!\nMtendere, chipulumutso, chimwemwe ndi zawo\nOdala ali anthu odziwa Yesu,"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 88,
+      "number": 88,
+      "title": "Chisomo chodabwitsa",
+      "category": "Main",
+      "verses": [
+        "Chisomo chodabwitsa chopezekatu pa mtanda\nChokwanira ndi chosatha cha Ambuye Yesu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 89,
+      "number": 89,
+      "title": "Wopambana, wopambana Yesu wa mtanda ngwopambana",
+      "category": "Main",
+      "verses": [
+        "Wopambana, wopambana Yesu wa mtanda ngwopambana\nPa mapazi ake tonse timgwadira\nYesu Ambuyeyo ngwopambana."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 90,
+      "number": 90,
+      "title": "Yesu adatipulumutsa ndi ntchito yakeyo",
+      "category": "Main",
+      "verses": [
+        "Yesu adatipulumutsa ndi ntchito yakeyo\nSadadza kuweruza dziko koma kupulumutsa\nTimati: Mpulumutsi, Timati: Mpulumutsi\nTimati: Mpulumutsi, Dzina labwinotu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 91,
+      "number": 91,
+      "title": "Khulupilira Mulungu",
+      "category": "Main",
+      "verses": [
+        "Khulupira Mulungu, ndiye Bwenzi ndithu\nTaya pa Yesu nkhawa zonse, amasamalira,\nYimba ndi usana wabwino\nYimba ndi usiku wa mdima;\nTsiku lonse, njira zonse\nTiyeni tiyimbe."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 92,
+      "number": 92,
+      "title": "Mulibe nsonizo",
+      "category": "Main",
+      "verses": [
+        "Mulibe nsonizo m'nyumba Mwambamo\nYa Atatewo a Kumwambako\nMulibe nsonizo m'nyumba Mwambamo\nMuli chimwemwe chokhacho."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 93,
+      "number": 93,
+      "title": "Nditsata Yesu",
+      "category": "Main",
+      "verses": [
+        "Nditsate Yesu tsiku ndi tsiku\nSindidzaopa atsogoleri\nM'dzuwa ndi m'nthunzi\nYesu mpulumutsi ali nane."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 94,
+      "number": 94,
+      "title": "Mtima uda bii",
+      "category": "Main",
+      "verses": [
+        "Mtima uda bii!\nMpaka Yesu walowa\nMwazi wake ndidziwa wandiyeretsa mbuu!\nM'mau ake ndikuzidwa ndidzayenda Kumwamba\nTsiku lodabwitsadi, wanditsuka machimo."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 95,
+      "number": 95,
+      "title": "Yesu m'ndikumbutse ine zomwe ndaphunziratu",
+      "category": "Main",
+      "verses": [
+        "Yesu m'ndikumbutse ine zomwe ndaphunziratu\nLembani pamtima panga zoonadi zanuzo\nDalitsanife Ambuye mpaka lisonkhananso\nMtitsogolere nthawi zonse, Mpulumutsi wathu'nu Amen."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 96,
+      "number": 96,
+      "title": "Indetu, indetu, ndititu",
+      "category": "Main",
+      "verses": [
+        "Indetu, indetu nditi kwa inu\nIndetu, indetu tamveranitu\nOkhulupilira Yesu ali ndi moyo wosatha."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 97,
+      "number": 97,
+      "title": "Tsegula m'mtima",
+      "category": "Main",
+      "verses": [
+        "Tsegula m'mtima, Yesu agogoda\nTsegula m'mtima, usazengereze\nTsegula m'mtima, Yesu agogoda\nIwe tsegula alowe"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 98,
+      "number": 98,
+      "title": "Odala oyera mtima,",
+      "category": "Main",
+      "verses": [
+        "Odala oyera mtima,\nOdala oyera mtima,\nOdala oyera mtima\nAdzaona Mulungu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 99,
+      "number": 99,
+      "title": "Ndiri kudya mkate",
+      "category": "Main",
+      "verses": [
+        "Ndiri nkudya mkate wa moyo\nNdiri kumwa madzi a moyo\nIye wakumwa ati Yesu\nNdithu sadzamvanso ludzu\n(Asungwana) kodi, sadzamvanso ludzu?\n(Anyamata) inde, sadzamvanso ludzu\nIye wakumwa ati Yesu\nNdithu sadzamvanso ludzu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 100,
+      "number": 100,
+      "title": "Wandimasula",
+      "category": "Main",
+      "verses": [
+        "Wandimasula, wandimasula\nSindidzayenda m'uchimo\nYesu ndiyetu mombolo wanga\nTsiku ndi tsiku akhale nane"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 101,
+      "number": 101,
+      "title": "Yesu Ambuye, andikondadi",
+      "category": "Main",
+      "verses": [
+        "Yesu Ambuye, andikondadi\nNafera ine ndipulumuke\nAdaukadi nigonja imfa,\nAdzabweranso ndisangalale."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 102,
+      "number": 102,
+      "title": "Akhala mumtima mwanga",
+      "category": "Main",
+      "verses": [
+        "Akhala mumtima mwanga,\nAkhala mumtima mwanga\nSindiopa kanthu ka ufiti omwe\nPokhala mumtima Yesu."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 103,
+      "number": 103,
+      "title": "Mtame Yesu",
+      "category": "Main",
+      "verses": [
+        "Mtame Yesu nthawi ya mamawa\nNthawi ya masana\nMtame Yesu pamene dzuwa lilowa\nAleluya!"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 104,
+      "number": 104,
+      "title": "Uku ndi uko",
+      "category": "Main",
+      "verses": [
+        "Uku ndi uko monga nyanjatu\nChikondi cha Yesu chimandizinga"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 105,
+      "number": 105,
+      "title": "Tidzamuona Iye",
+      "category": "Main",
+      "verses": [
+        "Tidzamuona Iye, Tidzamuona Iye\nTidzamuona Iye, m'muulemelero wake"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 106,
+      "number": 106,
+      "title": "Lamulo langa ndilo",
+      "category": "Main",
+      "verses": [
+        "Lamulo langa ndilo;\nMukondane wina ndi m'nzake\nChimwemwe chanu chidzale,\nChimwemwe chanu chidzale,\nChimwemwe chanu chidzale\nLamulo langa ndilo;\nMukondane wina ndi m'nzake\nChimwemwe chanu chidzale"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 107,
+      "number": 107,
+      "title": "Mphotho ya uchimo",
+      "category": "Main",
+      "verses": [
+        "Mphotho yake ya uchimo ndi imfa,\nMphotho yake ya uchimo ndi imfa\nKoma mphotho yaulere ya Mulungu\nNdiyo moyo wosatha."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 108,
+      "number": 108,
+      "title": "Yendani poyera",
+      "category": "Main",
+      "verses": [
+        "Yendani poyera, yendani poyera\nTsagana ndi Yesu\nAdzathandiza ifenso"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 109,
+      "number": 109,
+      "title": "Zingakhale zoipa",
+      "category": "Main",
+      "verses": [
+        "Zingakhale zoipa zafiira, ziyera, ziyera, M'mwazi wa Yesu\nZikafira ngati kapezi zidzakhala mbuu, M'mwazi wa Yesu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 110,
+      "number": 110,
+      "title": "Ponsepo, ponsepo",
+      "category": "Main",
+      "verses": [
+        "Ponsepo, ponsepo, sindidzaopa\nPonsepo ndi Yesu Ndidzapita."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 111,
+      "number": 111,
+      "title": "Ndani agogoda?",
+      "category": "Main",
+      "verses": [
+        "Ndani agogoda pa mtima panga?\nNdi Yesu Ambuye, ndi Yesu Ambuye Afuna alowe.\nKodi akalowa akufuna chiyani?\nKukupulumutsa'we."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 112,
+      "number": 112,
+      "title": "Ndine mwana wa nkhosa",
+      "category": "Main",
+      "verses": [
+        "Ndine mwana wa nkhosa wa Mbusa wabwino\nNdiye Yesu, amakonda nkhosa zake zonse\nAdafera pa mtanda kuti aziwombole\nKuti zonse zikhale m'khola mwake."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 113,
+      "number": 113,
+      "title": "Chikondi cha Yesu ncholingatu",
+      "category": "Main",
+      "verses": [
+        "Chikondi cha Yesu cholingatu m'mwambamo\nN'chakuya kuposatu nyanjazo\nWosayenera'ne andisamaliratu\nChikondi chakecho chimandizingatu ponsepo"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 114,
+      "number": 114,
+      "title": "Manga pa thanthwe",
+      "category": "Main",
+      "verses": [
+        "Manga pa thanthwe siidzagwedezeka\nManga pa thanthwe, osati pa mchenga\nAdzaopa namondwe kapena bingu\nUli wosungidwa pomanga pa Yesu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 115,
+      "number": 115,
+      "title": "Yesu mbusa wanga ndiyenda nayetu",
+      "category": "Main",
+      "verses": [
+        "Yesu mbusa wanga ndiyenda nayetu\nKumadzi odikha anditsogolera\nNsiku zonse ndiyenda nayetu,\nNsiku zonse ndiyenda nayetu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 116,
+      "number": 116,
+      "title": "Mukhale nafe",
+      "category": "Main",
+      "verses": [
+        "Mukhale nafe Yesu, mumphamvu yanu\nChipembedzo chathu mudalitsetu"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 117,
+      "number": 117,
+      "title": "Ambuye adzanditsogolera",
+      "category": "Main",
+      "verses": [
+        "Ambuye adzanditsogolera mkati mwa chipululu\nAmbuye adzanditsogolera, ine ndidzangomtsata\nMphamvu yake adzandipatsa\nYa lero ndi ya mawa yomwe\nAmbuye adzanditsogolera, ine ndidzangomtsata."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 118,
+      "number": 118,
+      "title": "Chikondi cha Yesu nchodabwitsa",
+      "category": "Main",
+      "verses": [
+        "Chikondi cha Yesu nchodabwitsatu,\nChikondi cha Yesu nchodabwitsatu,\nChikondi cha Yesu nchodabwitsatu,\nEe! Nchodabwitsa!\nN'chachikulu sungachizungulire\nN'chakuya sungafike pansi pake;\nNchachitali sungathe kuchikwera\nEe! Nchodabwitsa!"
+      ],
+      "chorus": null
+    },
+    {
+      "id": 119,
+      "number": 119,
+      "title": "Pali chiyanjano ndi chimwemwenso",
+      "category": "Main",
+      "verses": [
+        "Pali chiyanjano ndi chimwemwenso\nPotsamira pamkono wake.\nNdine wodala, mtendere ngwanga\nPotsamira pa mkono wake.",
+        "Potsamira, potsamira\nNdasinthika kuzoopsya;\nPotsamira, potsamira\nPotsamira pa mkono wake."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 120,
+      "number": 120,
+      "title": "Mongatu Yesu",
+      "category": "Main",
+      "verses": [
+        "Mongatu Yesu, mongatu Yesu,\nNdikhale monga Iye\nMuulendo onse mpaka kumwamba\nNdikhale monga Iye."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 121,
+      "number": 121,
+      "title": "Dzulo, lero",
+      "category": "Main",
+      "verses": [
+        "Dzulo, lero, nsiku zonse Yesu sasintha\nZinthu zonse zimasintha Koma Yesu ayi.\nUlemelero kwa dzina lake\nZinthu zonse zimasintha Koma Yesu ayi\nTiimbe ngati Yesu dzina lakukonda."
+      ],
+      "chorus": null
+    },
+    {
+      "id": 122,
+      "number": 122,
+      "title": "Tale wakumwambako",
+      "category": "Main",
+      "verses": [
+        "Tate wakumwambako likayera dzinalo\nChifuniro chanu'cho chichitike pansipa\nMutipatse lero el chakudya chathuchi\nMutikhululukire monga tikhululukira\nMutipulumutse kumayeserowo\nWanu ndi ufumuwo mpaka nthawi zonsezo."
+      ],
+      "chorus": null
+    }
+  ],
+  "choruses": [
+    {
+      "id": 1,
+      "number": 1,
+      "title": "Fanana fanana naye Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "title": "Yesu ndi wanga",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "title": "AYesu maluwa",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "title": "Aleluya hosanna kunababa",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "title": "Ine ndzapita kumwamba",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "title": "Tidzadya naye",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "title": "Ndi Yesu ali ndi chifundo nane",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "title": "Chishango changa Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "title": "Ambuye mwandipambanitsa lero",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "title": "Kale ine kale",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "title": "Mwali wakanaka",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "title": "Yesu wanga wondisamala",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "title": "Yesu ali ndi chifundo nane",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "title": "Aisraeli kodi mudandaulanji",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "title": "How marvelous man is Jesus",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "title": "Bayete-Bayete mkango wa Yuda",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "title": "Ameneyu ndanu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "title": "Mulungu kumwamba God wa mayankho",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "title": "Matamando kumwamba kwa Tate",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "title": "Kwathu kumwamba",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "title": "Ukalimbika kupemphera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "title": "Bwerani muone Yesu ndi wabwino",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "title": "Yesu ayee",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "title": "Wanga Ambuye",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "title": "Ukalimbika kupemphera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "title": "Lipenga likadzalira",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "title": "Aleluya hosanna",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "title": "Aleluyatu taimba mbele",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "title": "Lemekeza Yehova moyo wanga",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "title": "Amandikonda (mombana Jesu)",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "title": "Loya wa maloya",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "title": "Wamuyaya wamuyaya Yesu wanga",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "title": "Tili ndi uthenga wabwino",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "title": "Ndagoma naye",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "title": "Ndi Yahwe ndi Yahwe kumwamba",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "title": "Kaya mufune kaya musafune Yesu akubwera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "title": "Paulo ndi Sira anapemphera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "title": "Ine ndasankha kuyenda ndi Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "title": "Pakanapanda Yesu ndikanakhala ndani",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "title": "Kale ine kale",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 41,
+      "number": 41,
+      "title": "Ine toto kubwerera m'mbuyo ine toto",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "title": "Palibe ofana ndi Yesu palibe",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "title": "Ayesu akadzabwera ndidzamgwadira",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "title": "Moyo tikhalawu tiyamike Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "title": "Yahwe, Yahwe, Yahwe",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "title": "Ndaifunafuna nkhosa yosochera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 47,
+      "number": 47,
+      "title": "Mbuye wanga mwayenera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 48,
+      "number": 48,
+      "title": "Ayesu akadzabwera",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 49,
+      "number": 49,
+      "title": "Aisraeli kodi mudandaulanji?",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 50,
+      "number": 50,
+      "title": "Wapambana Yesu wapambana",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 51,
+      "number": 51,
+      "title": "Mwaitanidwa ndi Yesu Khristu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 52,
+      "number": 52,
+      "title": "Ukalimba mtima udzauwona ulemelero",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 53,
+      "number": 53,
+      "title": "Mkango wa Yuda kabangula",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 54,
+      "number": 54,
+      "title": "Yesu salephera zoonadi",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 55,
+      "number": 55,
+      "title": "Ndadabwa, ndadabwa ine",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 56,
+      "number": 56,
+      "title": "Woomboledwa tiyeni timuyimbire",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 57,
+      "number": 57,
+      "title": "Yehova atamandike",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 58,
+      "number": 58,
+      "title": "The Lord is good",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 59,
+      "number": 59,
+      "title": "Ndinasiya ndinasiya dzina la Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 60,
+      "number": 60,
+      "title": "Ndavuula mwana wanga",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 61,
+      "number": 61,
+      "title": "Nsinga anadula Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 62,
+      "number": 62,
+      "title": "Ndasamba mwazi wa Yesu",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 63,
+      "number": 63,
+      "title": "A Yesu ndinu Mulungu wodabwitsa",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 64,
+      "number": 64,
+      "title": "Dalira uwone",
+      "category": "Olemekeza"
+    },
+    {
+      "id": 65,
+      "number": 65,
+      "title": "Amen-Amen alleluia",
+      "category": "Opembedza"
+    },
+    {
+      "id": 66,
+      "number": 66,
+      "title": "Tangokhulupilira zonse zitheka",
+      "category": "Opembedza"
+    },
+    {
+      "id": 67,
+      "number": 67,
+      "title": "Muli mphamvu yodabwitsa",
+      "category": "Opembedza"
+    },
+    {
+      "id": 68,
+      "number": 68,
+      "title": "Tidzamtamanda Yesu",
+      "category": "Opembedza"
+    },
+    {
+      "id": 69,
+      "number": 69,
+      "title": "Tikulemekezani Yesu",
+      "category": "Opembedza"
+    },
+    {
+      "id": 70,
+      "number": 70,
+      "title": "Ulemelero wanu",
+      "category": "Opembedza"
+    },
+    {
+      "id": 71,
+      "number": 71,
+      "title": "Ndidzakutamandani",
+      "category": "Opembedza"
+    },
+    {
+      "id": 72,
+      "number": 72,
+      "title": "Ndinu woyera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 73,
+      "number": 73,
+      "title": "Alleluya hosanna",
+      "category": "Opembedza"
+    },
+    {
+      "id": 74,
+      "number": 74,
+      "title": "Timtamande Ambuye Yesu",
+      "category": "Opembedza"
+    },
+    {
+      "id": 75,
+      "number": 75,
+      "title": "Palibe ofanana naye",
+      "category": "Opembedza"
+    },
+    {
+      "id": 76,
+      "number": 76,
+      "title": "Ndinutu olemekezeka",
+      "category": "Opembedza"
+    },
+    {
+      "id": 77,
+      "number": 77,
+      "title": "Ndifuna kufanana ndi Yesu moyo wanga",
+      "category": "Opembedza"
+    },
+    {
+      "id": 78,
+      "number": 78,
+      "title": "Ambuye konzeni",
+      "category": "Opembedza"
+    },
+    {
+      "id": 79,
+      "number": 79,
+      "title": "Palibe angafanane naye",
+      "category": "Opembedza"
+    },
+    {
+      "id": 80,
+      "number": 80,
+      "title": "Dzina lanu lipambana",
+      "category": "Opembedza"
+    },
+    {
+      "id": 81,
+      "number": 81,
+      "title": "Timtamande Ambuye timtamande",
+      "category": "Opembedza"
+    },
+    {
+      "id": 82,
+      "number": 82,
+      "title": "Ndayendayenda ponse, ndazungulira ponse",
+      "category": "Opembedza"
+    },
+    {
+      "id": 83,
+      "number": 83,
+      "title": "Ambuye mundilengere mtima woyera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 84,
+      "number": 84,
+      "title": "Aleluya ulemelero Wapambana Yesu wapambana",
+      "category": "Opembedza"
+    },
+    {
+      "id": 85,
+      "number": 85,
+      "title": "Sichilephera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 86,
+      "number": 86,
+      "title": "Ndikweza maso anga kumapiri",
+      "category": "Opembedza"
+    },
+    {
+      "id": 87,
+      "number": 87,
+      "title": "Yesu ndinu Kalonga",
+      "category": "Opembedza"
+    },
+    {
+      "id": 88,
+      "number": 88,
+      "title": "Tsitsani Mzimu inu a Yehova",
+      "category": "Opembedza"
+    },
+    {
+      "id": 89,
+      "number": 89,
+      "title": "Woyera, woyera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 90,
+      "number": 90,
+      "title": "Ndiwoyera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 91,
+      "number": 91,
+      "title": "Ndidzakangamira",
+      "category": "Opembedza"
+    },
+    {
+      "id": 92,
+      "number": 92,
+      "title": "Muzinthu zonse Mulungu akhalepo",
+      "category": "Opembedza"
+    },
+    {
+      "id": 93,
+      "number": 93,
+      "title": "Naye Yesu",
+      "category": "Opembedza"
+    },
+    {
+      "id": 94,
+      "number": 94,
+      "title": "Mbuye Yesu mwayenera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 95,
+      "number": 95,
+      "title": "Ndi mabalawo a Yesu ndapulumutsidwa",
+      "category": "Opembedza"
+    },
+    {
+      "id": 96,
+      "number": 96,
+      "title": "Ndi mwaziwo wa Yesu",
+      "category": "Opembedza"
+    },
+    {
+      "id": 97,
+      "number": 97,
+      "title": "Kale lija ndinalephera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 98,
+      "number": 98,
+      "title": "M'mwambamwamba muli Yesu m'mwambamo",
+      "category": "Opembedza"
+    },
+    {
+      "id": 99,
+      "number": 99,
+      "title": "Tambasulani dzanja mukhudze Mbuye",
+      "category": "Opembedza"
+    },
+    {
+      "id": 100,
+      "number": 100,
+      "title": "Mulungu angathe, angathe salephera",
+      "category": "Opembedza"
+    },
+    {
+      "id": 101,
+      "number": 101,
+      "title": "Aleluya, aleluya, aleluyaaa!",
+      "category": "Opembedza"
+    },
+    {
+      "id": 102,
+      "number": 102,
+      "title": "Tikutamandani",
+      "category": "Opembedza"
+    }
+  ]
+}
