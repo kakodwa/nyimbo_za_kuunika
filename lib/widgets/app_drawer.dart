@@ -31,10 +31,16 @@ class AppDrawer extends StatelessWidget {
                 color: Colors.white,
                 shape: BoxShape.circle,
               ),
-              child: const Icon(
-                Icons.menu_book_rounded,
-                color: AppTheme.zecBlue,
-                size: 36,
+              child: ClipOval(
+                child: Image.asset(
+                  'assets/logo.png',
+                  fit: BoxFit.cover,
+                  errorBuilder: (context, error, stackTrace) => const Icon(
+                    Icons.menu_book_rounded,
+                    color: AppTheme.zecBlue,
+                    size: 36,
+                  ),
+                ),
               ),
             ),
             accountName: const Text(
@@ -146,11 +152,23 @@ class AppDrawer extends StatelessWidget {
     showDialog(
       context: context,
       builder: (ctx) => AlertDialog(
-        title: const Row(
+        title: Row(
           children: [
-            Icon(Icons.church, color: AppTheme.zecBlue),
-            SizedBox(width: 8),
-            Expanded(
+            ClipRRect(
+              borderRadius: BorderRadius.circular(4),
+              child: Image.asset(
+                'assets/logo.png',
+                width: 28,
+                height: 28,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) => const Icon(
+                  Icons.church,
+                  color: AppTheme.zecBlue,
+                ),
+              ),
+            ),
+            const SizedBox(width: 8),
+            const Expanded(
               child: Text(
                 'About Nyimbo za Kuunika',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
