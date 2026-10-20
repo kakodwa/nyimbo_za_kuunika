@@ -28,63 +28,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     super.dispose();
   }
 
-  // Toast / Floating SnackBar explaining the microphone feature
-  void _showMicPurposeToast(BuildContext context) {
-    ScaffoldMessenger.of(context).clearSnackBars();
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        elevation: 6,
-        behavior: SnackBarBehavior.floating,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-        backgroundColor: AppTheme.zecDarkBlue,
-        margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-        content: Row(
-          children: [
-            Container(
-              padding: const EdgeInsets.all(8),
-              decoration: const BoxDecoration(
-                color: AppTheme.zecGold,
-                shape: BoxShape.circle,
-              ),
-              child: const Icon(
-                Icons.mic_rounded,
-                color: AppTheme.zecDarkBlue,
-                size: 20,
-              ),
-            ),
-            const SizedBox(width: 12),
-            Expanded(
-              child: Column(
-                mainAxisSize: MainAxisSize.min,
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    'Jambula Chuni (Record Tune)',
-                    style: const TextStyle(
-                      fontWeight: FontWeight.bold,
-                      color: AppTheme.zecGold,
-                      fontSize: 14,
-                    ),
-                  ),
-                  const SizedBox(height: 2),
-                  Text(
-                    'Pezani kapena sungani chuni cha Nyimbo ${widget.hymn.number} m\'foni mwanu.',
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 12,
-                      height: 1.3,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ],
-        ),
-        duration: const Duration(seconds: 4),
-      ),
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     final settings = Provider.of<SettingsProvider>(context);
@@ -114,34 +57,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
             },
           ),
         ],
-      ),
-
-      // FLOATING MICROPHONE BUTTON ON BOTTOM RIGHT
-      floatingActionButton: Container(
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(18),
-          gradient: const LinearGradient(
-            colors: [AppTheme.zecBlue, AppTheme.zecDarkBlue],
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-          ),
-          boxShadow: [
-            BoxShadow(
-              color: AppTheme.zecBlue.withOpacity(0.35),
-              blurRadius: 12,
-              offset: const Offset(0, 4),
-            ),
-          ],
-        ),
-        child: FloatingActionButton(
-          elevation: 0,
-          backgroundColor: Colors.transparent,
-          foregroundColor: AppTheme.zecGold,
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
-          tooltip: 'Sunga Chuni (Record Tune)',
-          onPressed: () => _showMicPurposeToast(context),
-          child: const Icon(Icons.mic_rounded, size: 26),
-        ),
       ),
 
       body: SingleChildScrollView(
@@ -254,7 +169,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
                 style: TextStyle(color: Colors.grey, fontStyle: FontStyle.italic, fontSize: 12),
               ),
             ),
-            const SizedBox(height: 60), // Space to avoid FAB overlap
+            const SizedBox(height: 24),
           ],
         ),
       ),
