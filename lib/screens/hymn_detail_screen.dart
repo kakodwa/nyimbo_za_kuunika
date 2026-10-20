@@ -32,6 +32,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   Widget build(BuildContext context) {
     final settings = Provider.of<SettingsProvider>(context);
     final isFav = settings.isFavorite(widget.hymn.number);
+    final currentYear = DateTime.now().year; // Dynamically gets the current year
 
     return Scaffold(
       appBar: AppBar(
@@ -163,10 +164,27 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
             }).toList(),
 
             const SizedBox(height: 30),
-            const Center(
-              child: Text(
-                'Built for ZEC by Isaac Kakodwa (IK-Pixels Tech)',
-                style: TextStyle(color: Colors.grey, fontStyle: FontStyle.italic, fontSize: 12),
+            Center(
+              child: Column(
+                children: [
+                  const Text(
+                    'Built for ZEC by IKpixels Invt.',
+                    style: TextStyle(
+                      color: Colors.grey,
+                      fontStyle: FontStyle.italic,
+                      fontSize: 12,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    '© Mitsidi Synod $currentYear. All Rights Reserved.',
+                    style: const TextStyle(
+                      color: Colors.grey,
+                      fontSize: 11,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                ],
               ),
             ),
             const SizedBox(height: 24),

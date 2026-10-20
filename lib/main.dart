@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'providers/hymn_provider.dart';
 import 'providers/theme_provider.dart';
 import 'providers/settings_provider.dart';
-import 'screens/home_screen.dart';
+import 'screens/splash_screen.dart'; // <--- Tizawonjezera pulogalamu ya SplashScreen
 import 'utils/app_theme.dart';
 
 void main() {
@@ -33,7 +33,7 @@ class NyimboZaKuunikaApp extends StatelessWidget {
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
       themeMode: themeProvider.themeMode,
-      home: const HomeScreen(),
+      home: const SplashScreen(), // <--- Yayambira pa Splash Screen pano
     );
   }
 }

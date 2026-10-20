@@ -125,7 +125,7 @@ class AppDrawer extends StatelessWidget {
             child: const Column(
               children: [
                 Text(
-                  'IK-Pixels Tech',
+                  'IKpixels Invt.',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 12,
@@ -193,7 +193,7 @@ class AppDrawer extends StatelessWidget {
                 style: TextStyle(fontWeight: FontWeight.bold, color: AppTheme.zecBlue),
               ),
               Text('Isaac Kakodwa (Member of ZEC)'),
-              Text('IK-Pixels Tech'),
+              Text('IKpixels Invt.'),
               SizedBox(height: 12),
               Text(
                 'Mission:',

@@ -8,7 +8,7 @@ import '../widgets/app_drawer.dart';
 import '../utils/app_theme.dart';
 import 'index_screen.dart';
 import 'choruses_screen.dart';
-import 'favorites_screen.dart'; // <--- Added FavoritesScreen import
+import 'favorites_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -111,11 +111,30 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+        title: Row(
           children: [
-            Text('Zambezi Evangelical Church', style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
-            Text('NYIMBO ZA KUUNIKA', style: TextStyle(fontSize: 12, color: AppTheme.zecGold, fontWeight: FontWeight.w600)),
+            ClipRRect(
+              borderRadius: BorderRadius.circular(4),
+              child: Image.asset(
+                'assets/logo.png',
+                width: 32,
+                height: 32,
+                fit: BoxFit.contain,
+                errorBuilder: (context, error, stackTrace) => const Icon(
+                  Icons.menu_book_rounded,
+                  color: AppTheme.zecGold,
+                ),
+              ),
+            ),
+            const SizedBox(width: 10),
+            const Text(
+              'NYIMBO ZA KUUNIKA',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+                letterSpacing: 0.5,
+              ),
+            ),
           ],
         ),
         actions: [
@@ -133,24 +152,23 @@ class _HomeScreenState extends State<HomeScreen> {
             width: double.infinity,
             padding: const EdgeInsets.symmetric(vertical: 6, horizontal: 12),
             color: AppTheme.zecDarkBlue,
-            child: const Column(
-              children: [
-                Text(
-                  '"Discipling Nations for Christ"',
-                  style: TextStyle(color: AppTheme.zecLightGreen, fontStyle: FontStyle.italic, fontSize: 11),
+            child: const Center(
+              child: Text(
+                '"Discipling Nations for Christ"',
+                style: TextStyle(
+                  color: AppTheme.zecLightGreen,
+                  fontStyle: FontStyle.italic,
+                  fontSize: 11,
+                  fontWeight: FontWeight.w500,
                 ),
-                Text(
-                  'Developed for ZEC by Isaac Kakodwa (IK-Pixels Tech)',
-                  style: TextStyle(color: Colors.white70, fontSize: 10),
-                ),
-              ],
+              ),
             ),
           ),
           Expanded(child: pages[_currentIndex]),
         ],
       ),
 
-      // Animated Bottom Navigation Bar with 4 Navigation destinations
+      // Animated Bottom Navigation Bar
       bottomNavigationBar: AnimatedContainer(
         duration: const Duration(milliseconds: 300),
         curve: Curves.fastOutSlowIn,

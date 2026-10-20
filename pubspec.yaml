@@ -28,7 +28,7 @@ flutter:
     - assets/logo.png
 
 flutter_launcher_icons:
-  android: "mipmap/ic_launcher"
+  android: true
   ios: true
   image_path: "assets/logo.png"
   min_sdk_android: 21
