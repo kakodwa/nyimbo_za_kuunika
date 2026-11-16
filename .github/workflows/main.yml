@@ -1,4 +1,5 @@
-name: Flutter Multi-Platform Build
+
+name: Nyimbo Za Kuunika Multi-Platform Build
 
 on:
   push:
@@ -42,13 +43,13 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: malatrade-android-apk
+          name: nyimbo-za-kuunika-android-apk
           path: build/app/outputs/flutter-apk/app-release.apk
 
       - name: Upload AAB
         uses: actions/upload-artifact@v4
         with:
-          name: malatrade-android-aab
+          name: nyimbo-za-kuunika-android-aab
           path: build/app/outputs/bundle/release/app-release.aab
 
 
@@ -60,9 +61,6 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      # --------------------------------------------------------
-      # Checkout repository
-      # --------------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -141,7 +139,6 @@ jobs:
 
           echo "Apple certificate imported successfully."
 
-
       # --------------------------------------------------------
       # Install provisioning profile
       # --------------------------------------------------------
@@ -166,7 +163,6 @@ jobs:
 
           echo "Provisioning profile installed successfully."
 
-
       # --------------------------------------------------------
       # Check Xcode signing identities
       # --------------------------------------------------------
@@ -176,14 +172,12 @@ jobs:
           security find-identity -v -p codesigning \
             "$RUNNER_TEMP/build.keychain-db"
 
-
       # --------------------------------------------------------
       # Build signed IPA
       # --------------------------------------------------------
       - name: Build iOS IPA
         run: |
           flutter build ipa --release
-
 
       # --------------------------------------------------------
       # Check generated IPA
@@ -193,12 +187,11 @@ jobs:
           echo "Generated IPA files:"
           ls -lh build/ios/ipa/
 
-
       # --------------------------------------------------------
       # Upload IPA
       # --------------------------------------------------------
       - name: Upload IPA
         uses: actions/upload-artifact@v4
         with:
-          name: malatrade-ios-ipa
+          name: nyimbo-za-kuunika-ios-ipa
           path: build/ios/ipa/*.ipa
