@@ -1,4 +1,5 @@
-package com.example.nyimbo_za_kuunika
+
+package com.zec.nyimbo_za_kuunika
 
 import io.flutter.embedding.android.FlutterActivity
 
